@@ -29,7 +29,7 @@ We will simulate vehicles using CARLA, an open-source autonomous driving simulat
 - **Data Collection and Preprocessing**: Extract the data and preprocess it for vechicle perception.
 - **Quantum-Assisted Collision Avoidance**: Feed the data into a quantum circuit to adjust spped, steering, and throttle for pedestrian safety.
 - **Qunatun Route Optimisation**: Use quantum algorithms to determine the most efficient path for autonomous navigation.
-- **Lane Change and Trajectory Prediction: Develop a rotation matric-based function to make effective decision during lane changes.
+- **Lane Change and Trajectory Prediction**: Develop a rotation matric-based function to make effective decision during lane changes.
 - **Quantum-Optimized Ride Pooling**: Develop a ride-sharing system that assigns optimal routes using quantum computation.
 ## Expected Outcomes
   1. Enhanced Collision Avoidance
